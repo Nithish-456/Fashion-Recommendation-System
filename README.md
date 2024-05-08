@@ -20,6 +20,9 @@ A Fashion Recommendation System with Image Features uses computer vision and mac
 
 7. 🎉 Implement a final function that encapsulates the entire process from pre-processing an input image, extracting features, computing similarities, and outputting recommendations.
 
+## Dataset:
+- You can download the entire dataset regarding to this project as zip file from [Dataset](https://statso.io/fashion-recommendations-using-image-features-case-study/)
+
 ## 📸 Sample Images:
 
 <p float="left">
