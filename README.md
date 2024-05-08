@@ -38,4 +38,4 @@ A Fashion Recommendation System with Image Features uses computer vision and mac
 
 ## 🌟 Results:
 
-![Result Image](images/img4.jpg)
+![Result Image](images/img4.png)
