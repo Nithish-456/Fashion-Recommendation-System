@@ -39,3 +39,7 @@ A Fashion Recommendation System with Image Features uses computer vision and mac
 ## 🌟 Results:
 
 ![Result Image](images/img4.png)
+
+## 📫 Contact:
+
+For any queries or suggestions, feel free to reach out to me at [nithishpaidimarri@gmail.com](mailto:nithishpaidimarri@gmail.com).
